@@ -1,0 +1,1 @@
+# This is a template for a Next.js project with TypeScript, Prettier, Eslint and Emotion.
